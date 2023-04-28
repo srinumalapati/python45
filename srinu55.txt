@@ -1,0 +1,6 @@
+ 1   n=25
+ 2   print(type(n))
+ 3   print(n)
+ 4   con_num=str(n)
+ 5   print(type(con_num))
+ 6   print(con_num)

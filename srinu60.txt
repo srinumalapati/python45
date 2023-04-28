@@ -1,0 +1,4 @@
+1  phrase=input("input word: ")
+2  phrase_list=phrase.split(",")
+3  phrase_list.sort()
+4  print((',').join(phrase_list))
