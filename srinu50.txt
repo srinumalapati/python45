@@ -1,0 +1,14 @@
+1  phrase =input("type in: ")
+2  phrase =list(phrase)
+3
+4  l, d=0,0
+5  for i in phrase:
+6     if i.isalpa():
+7        1 =1 + 1
+8      if i.isdigit():
+9           d=d +1
+10      else:
+11            pass
+12
+13  print("Letters:", 1)
+14  print("Digits:", d)

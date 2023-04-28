@@ -1,0 +1,6 @@
+1 values =[]
+2 for i in range(1000,3001):
+3     s= str(i)
+4    if(int(s[0]%2==0)and(int(s[1]%2==0and(int(s[2]%2==0)and(int(s[3])%2==0):
+5       values.append(s)
+6   print(",".join(values))
